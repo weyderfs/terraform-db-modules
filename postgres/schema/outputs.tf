@@ -1,9 +1,9 @@
 output "name" {
-  value       = postgresql_database.pdb.name
-  description = "The name of Database"
+  value       = postgresql_schema.schema.name
+  description = "The name of Schema"
 }
 
 output "owner" {
-  value       = postgresql_database.pdb.owner
-  description = "The owner of Database"
+  value       =postgresql_schema.schema.owner
+  description = "The owner of Schema"
 }
