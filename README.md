@@ -11,6 +11,4 @@
 
 ### Maintainers :computer:
 
-**Time de DevOps/SRE**
-
 - [@Weyder Santos](https://github.com/orgs/gbprojectbr/people/weydersantos)
