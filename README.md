@@ -7,6 +7,8 @@
 - Postgres
   - Database Server
   - Schema
+  - Role
+  - Grant
 ## :warning: This repository still in development
 
 ### Maintainers :computer:
