@@ -4,6 +4,6 @@ output "name" {
 }
 
 output "owner" {
-  value       =postgresql_schema.schema.owner
+  value       = postgresql_schema.schema.owner
   description = "The owner of Schema"
 }
