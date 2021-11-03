@@ -9,6 +9,11 @@
   - Schema
   - Role
   - Grant
+- MySQL
+  - Database
+  - Role
+  - User
+  - Grant  
 ## :warning: This repository still in development
 
 ### Maintainers :computer:
