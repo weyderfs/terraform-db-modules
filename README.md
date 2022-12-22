@@ -1,8 +1,11 @@
 # Terraform Database Modules
 
-![logo](https://learn.vonage.com/content/blog/using-terraform-for-database-management/terraform_database-management_1200x600.png)
+![logo](assets/logo.png)
 
-## Database Types Covered :hammer:
+---
+## :warning: This repository still in development
+
+## Database Engines Covered :hammer:
 
 - Postgres
   - Database Server
@@ -13,8 +16,12 @@
   - Database
   - Role
   - User
-  - Grant  
-## :warning: This repository still in development
+  - Grant
+- MariaDB **(Working Progress)**
+  - Database
+  - Role
+  - User
+  - Grant 
 
 ### Maintainers :computer:
 
