@@ -21,7 +21,11 @@
   - Database
   - Role
   - User
-  - Grant 
+  - Grant
+- MongoDB Atlas
+  - Cluster
+  - Database User
+  - Global Cluster
 
 ### Maintainers :computer:
 
